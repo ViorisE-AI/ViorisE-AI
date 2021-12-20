@@ -12,6 +12,6 @@ I'm 16yo and I like to work on coding stuff.
 
 [![ViorisE's GitHub stats](https://github-readme-stats.vercel.app/api?username=viorise-ai)](https://github.com/anuraghazra/github-readme-stats)
 
-Right now, I'm working as a Wiki Editor/Maintainer @TechsCode-Team
-I'm also the owner of @RiseCraft-Network (which is currently under a complete rebuild)
+Right now, I'm working as a Wiki Editor/Maintainer for [TechsCode-Team](https://github.com/techscode-team) <br>
+I'm also the owner of [RiseCraft](https://github.com/risecraft-network) (which is currently under a complete rebuild)
 
