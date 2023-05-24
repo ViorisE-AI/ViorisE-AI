@@ -1,6 +1,6 @@
 ### 👋 &nbsp;Hey there! I'm Guillaume
 
-I'm 16yo and I like to work on coding stuff.
+I'm 18yo and I like to code and design stuff.
 
 ### 🛠 &nbsp;My skills
 
